@@ -1,4 +1,4 @@
-<div class="navbar bg-base-100">
+<div class="navbar bg-neutral-100">
   <div class="navbar-start">
   </div>
   <div class="navbar-center">
